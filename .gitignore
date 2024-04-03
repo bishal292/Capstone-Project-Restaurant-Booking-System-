@@ -1,0 +1,13 @@
+**/node_modules/
+**/.vscode/
+
+*.log
+
+# Ignore compiled JavaScript source maps
+*.js.map
+
+**/dist/
+**/build/
+
+.vscode/settings.json
+
